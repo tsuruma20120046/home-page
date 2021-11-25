@@ -1,15 +1,17 @@
-## Welcome to GitHub Pages
+## 鶴間　昇　のホームページ
 
-You can use the [editor on GitHub](https://github.com/tsuruma20120046/home-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 概要
+開志専門職大学　情報学部　情報学科 2
+[大学ホームページはこちら](https://kaishi-pu.ac.jp/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.い
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions forう
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code blockえ
 
 # Header 1
 ## Header 2
