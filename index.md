@@ -1,39 +1,45 @@
 ## 鶴間　昇　のホームページ
 
-### 概要
-開志専門職大学　情報学部　情報学科 2
-[大学ホームページはこちら](https://kaishi-pu.ac.jp/)
+### プロフィール
+開志専門職大学　情報学部　情報学科 2年
+[（大学ホームページはこちら）](https://kaishi-pu.ac.jp/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.い
+出身地：新潟県佐渡ヶ島
 
-### Markdown
+好み：甘党
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions forう
+### 趣味
+
+・映画鑑賞　・ゲーム　・漫画
 
 ```markdown
-Syntax highlighted code blockえ
+# 好きな映画
+- インターステラー
+- 千と千尋の神隠し
+- サマーウォーズ
+- JOKER
 
-# Header 1
-## Header 2
-### Header 3
+# 好きなゲーム
+- APEX
+- 雀魂
+- スマブラ
+- 遊戯王
+- スプラトゥーン2
 
-- Bulleted
-- List
+# 好きな漫画
+- ブルーピリオド
+- ハンターハンター
+- ブリーチ
+- 呪術廻戦
+- 鬼滅の刃
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### お問い合わせ
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tsuruma20120046/home-page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+電話　090-xxxx-xxxx
 
-### Support or Contact
+電子メール　xxxxxxxx@xxxxxxx
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
